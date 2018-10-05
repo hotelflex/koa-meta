@@ -1,12 +1,12 @@
 {
   "name": "@hotelflex/koa-meta",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src",
   "scripts": {
     "precommit": "pretty-quick --staged"
   },
   "dependencies": {
-    "@hotelflex/id": "git+https://github.com/hotelflex/id.git#1.0.1"
+    "@hotelflex/id": "git+https://github.com/hotelflex/id.git#1.x"
   },
   "devDependencies": {
     "husky": "^0.14.3",
